@@ -41,7 +41,8 @@ EcoGuard enables forest departments, NGOs, and conservation agencies to:
 - 🔗 **Hyperledger Fabric (PBFT)** – Securing surveillance logs on blockchain
 - 📡 **LoRa & FANET** – Enables drone communication without internet
 - 🌍 **Google Earth Engine** – Visualizing real-time geospatial forest data
-- 🌐 **Web Portal** – For public incident reporting & map-based dashboard
+- 🌐 **Web Portal** – For public incident reporting & map-based dashboard  
+
 
 ---
 
@@ -55,6 +56,8 @@ EcoGuard enables forest departments, NGOs, and conservation agencies to:
 6. Public can also report illegal activity through the web portal.
 
 ---
+Visit our [Official Website](https://tracking-deforestation.vercel.app/)
+---
 
 ## 👨‍💻 Our Team – *Drone Voyagers*
 
@@ -66,8 +69,6 @@ EcoGuard enables forest departments, NGOs, and conservation agencies to:
 | Akshaay Krithick   | Drone Developer & Market Analyst  |
 | Sridharan VG       | R&D and Blockchain Integration    |
 | Uwais Abdul Salam  | Web UI/UX and Media Support       |
-
-![Team](image/1.jpg)
 
 We are a passionate team of engineers dedicated to using emerging technology for sustainable environmental conservation 🌿
 
