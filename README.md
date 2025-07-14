@@ -65,9 +65,9 @@ This is our [Tracking Website](https://tracking-deforestation.vercel.app/)
 
 | Name               | Role                              |
 |--------------------|-----------------------------------|
-| Yahya K T          | Project Lead & AI/ML Specialist   |
+| Yahya K T          | Project Lead                      |
 | Akshaay Krithick   | Drone Developer & Market Analyst  |
-| Sridharan VG       | R&D and Blockchain Integration    |
+| Sridharan VG       | R&D and AIML Specialist           |
 | Uwais Abdul Salam  | Web UI/UX and Media Support       |
 
 We are a passionate team of engineers dedicated to using emerging technology for sustainable environmental conservation 🌿
