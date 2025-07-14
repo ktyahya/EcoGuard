@@ -30,7 +30,7 @@ EcoGuard enables forest departments, NGOs, and conservation agencies to:
 
  Drone Prototype 
 
- ![Drone 1](image/PROOF OF CONCEPT cropped.png) 
+ ![Drone 1](image/2.png) 
 <!-- Replace with your actual image paths inside /images folder -->
 
 ---
@@ -57,6 +57,8 @@ EcoGuard enables forest departments, NGOs, and conservation agencies to:
 ---
 
 ## 👨‍💻 Our Team – *Drone Voyagers*
+
+![Team](image/1.jpg)
 
 | Name               | Role                              |
 |--------------------|-----------------------------------|
