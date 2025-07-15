@@ -1,4 +1,4 @@
-# 🌳 EcoGuard – AI-Powered Drone Surveillance for Forest Protection
+# 🌳 EcoGuard – Drone Surveillance for Forest Protection
 
 **EcoGuard** is an innovative AI-based drone surveillance system designed to protect forests from illegal activities like **poaching**, **logging**, and **wildfires**. It combines **real-time AI object detection**, **blockchain-secured data**, and **long-range communication (LoRa FANET)** to provide an autonomous, tamper-proof, and scalable solution for environmental monitoring.
 
